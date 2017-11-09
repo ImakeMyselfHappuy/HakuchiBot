@@ -1,1 +1,2 @@
-worker: node C:\users\jacks\desktop\hakuchi\app.js
+worker: node app.js
+pause
