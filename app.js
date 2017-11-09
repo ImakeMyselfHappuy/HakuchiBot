@@ -41,4 +41,4 @@ bot.on('message', msg => {
   }
 });    
 
-bot.login(cfg.token);
+client.login(process.env.BOT_TOKEN);
